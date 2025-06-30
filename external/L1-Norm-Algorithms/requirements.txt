@@ -1,0 +1,10 @@
+#
+####### Author: Konstantinos Tountas #######
+#
+####### requirements.txt #######
+#
+###### Requirements without Version Specifiers ######
+scipy
+tensorly
+numpy
+#
